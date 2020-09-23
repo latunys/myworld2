@@ -10,7 +10,7 @@
 
 ### [Preliminary](pre.html)
 
-### A. Architecture Vision
+### [A. Architecture Vision](vision.html)
 
 
 
