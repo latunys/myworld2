@@ -10,7 +10,7 @@
 
 ### [Preliminary](pre.html)
 
-[Markdown](pre.html) is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 
 
