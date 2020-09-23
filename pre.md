@@ -2,14 +2,14 @@
 
 ## Preliminary
 
-Objectives
+### Objectives
 
-Inputs
+### Inputs
 
 
-Steps
+### Steps
 
-Outputs
+### Outputs
 
-Approach
+### Approach
 
