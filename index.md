@@ -12,6 +12,8 @@
 
 ### [A. Architecture Vision](vision.html)
 
+### [B. Business Architecture](bus.html)
+
 
 
 
