@@ -14,6 +14,8 @@
 
 ### [B. Business Architecture](bus.html)
 
+### [C. Information System Architecture](info.html)
+
 
 
 
