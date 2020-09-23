@@ -18,6 +18,16 @@
 
 ### [D. Technology Architecture](tech.html)
 
+### [E. Opportunities and Solutions](oppo.html)
+
+### [F. Migration Planning](mig.html)
+
+### [G. Implementation Government](gover.html)
+
+### [H. Architecture Change Management](change.html)
+
+### [ADM. Requirements Management](req.html)
+
 
 
 
