@@ -1,4 +1,4 @@
-{{ title }}
+{{ page.title }}
 
 ## Preliminary
 
