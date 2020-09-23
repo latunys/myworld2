@@ -16,6 +16,8 @@
 
 ### [C. Information System Architecture](info.html)
 
+### [D. Technology Architecture](tech.html)
+
 
 
 
