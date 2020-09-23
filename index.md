@@ -10,21 +10,22 @@
 
 ### [Preliminary](pre.html)
 
-
-
-
-
-
-
-
-
-
-
-
-
 ### A. Architecture Vision
 
 
+
+
+
+
+
+
+
+
+
+
+
+### Others Architecture's
+[Business](#)
 
 ### Support or Contact
 
