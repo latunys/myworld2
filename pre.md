@@ -8,9 +8,9 @@
    1.1 Context
    1.2 Identify and Scope
    1.3 Framework - TOGAF
-   1.4.1 Mental
-   1.4.2 Health
-   1.4.3 Finance
+   1.4 Mental
+   1.4.1 Health
+   1.4.2 Finance
 
 2. Established
     2.1 Organisation Model
