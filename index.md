@@ -25,7 +25,7 @@
 
 
 ### Others Architecture's
-[Close](#)[Business](#)
+[Close](#) [Business](#)
 
 ### Support or Contact
 
