@@ -1,6 +1,6 @@
-{{ page.title }}
 
-## Preliminary
+
+## [Preliminary](index.html)
 
 ### Objectives
 
