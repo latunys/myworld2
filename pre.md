@@ -2,15 +2,22 @@
 
 ## [Preliminary](index.html)
 
+
+
 ### Objectives
-``` markdown
-1. Architecture Capabilities
-   1.1 [Context](context.html)
-   1.2 Identify and Scope
+
+#### Architecture Capabilities
+
+1.1 [Context](context.html)
+1.2 Identify and Scope 
    1.3 Framework - TOGAF
    1.4 Mental
    1.4.1 Health
    1.4.2 Finance
+
+``` markdown
+
+   
 
 2. Established
     2.1 Organisation Model
