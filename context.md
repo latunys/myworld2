@@ -3,17 +3,21 @@
 ### My Care about My most important Needs (Things)
 
 **research**
-- timeline
+- mytimeline
+- timeline humans, society, local, close
 - clouds needs
 - categories needs
 - only my needs
 - real needs
 
 **tech**
-- graphics
 - markdown
 - jekyll
+- pelican
+- next.js
+- graphics
 - api
+- github
 
 
 ### Niche of The Care of Needs
