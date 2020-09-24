@@ -7,7 +7,7 @@
 
 - PRINCE2, COBIT5, ITIL4
 
-- ML, DL
+- ML, DL, AI
 
 - VR, AR
 
@@ -17,4 +17,6 @@
   - C++, Java, Kotlin
   
 - DevOps
+
+- Conteniumes
 
