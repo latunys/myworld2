@@ -2,18 +2,10 @@
 
 ### My Care about My most important Needs (Things)
 
-**company**
+**partners**
 
 **github-mvp-app**
 
-**research (data)**
-- mytimeline
-- timeline humans, society, local, close
-- clouds needs
-- categories needs
-- only my needs
-- real needs
-- experts
 
 **tech**
 - markdown
