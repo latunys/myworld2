@@ -12,7 +12,7 @@
     1.1 [Context](context.html)
     1.2 [Identify and Scope](scope.html)
     1.3 [Frameworks](frame.html)
-    1.4 Mental
+    1.4 [Mental](mental.html)
       1.4.1 Health
       1.4.2 Finance
 
