@@ -2,7 +2,7 @@
 
 
 
-## My World :wave:
+## My World 
 
 
 
