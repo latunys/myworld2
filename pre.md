@@ -6,9 +6,8 @@
 
 ### Objectives
 
-#### Architecture Capabilities
+#### 1. Architecture Capabilities
 
-1. Determine
     1.1 [Context](context.html)
     1.2 [Identify and Scope](scope.html)
     1.3 [Frameworks](frame.html)
