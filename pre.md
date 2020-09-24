@@ -6,7 +6,7 @@
 
 ### Objectives
 
-#### 1. Architecture Capabilities
+1. Architecture Capabilities
 
     1.1 [Context](context.html)
     1.2 [Identify and Scope](scope.html)
