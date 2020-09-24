@@ -17,7 +17,7 @@
 - pelican
 - next.js
 - graphics
-- api
+- api services and startups
 - github
 - habr hubs
 - science hubs
