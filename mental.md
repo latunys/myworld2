@@ -12,6 +12,8 @@ My Hard Care about my most important Needs (Things)
 
 Service-App
 
+Enterprise Architecture
+
 Company
 
 - Health
