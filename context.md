@@ -4,7 +4,7 @@
 
 **company**
 
-**app**
+**github-mvp-app**
 
 **research (data)**
 - mytimeline
