@@ -2,7 +2,11 @@
 
 ### My Care about My most important Needs (Things)
 
-**research**
+**company**
+
+**app**
+
+**research (data)**
 - mytimeline
 - timeline humans, society, local, close
 - clouds needs
