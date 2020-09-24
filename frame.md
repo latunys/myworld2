@@ -18,5 +18,11 @@
   
 - DevOps
 
-- Conteniumes
+- Continuum
+  - Communities
+  - Repositories
+  - GitHub
+  - HubrHubs
+  - Science Hubs
+  - API Services and Startups
 
