@@ -8,6 +8,20 @@
 - real needs
 - experts
 
+**github-mvp-app**
+
+
+**tech**
+- markdown
+- jekyll
+- pelican
+- next.js
+- graphics
+- api services and startups
+- github
+- habr hubs
+- science hubs
+
 My Hard Care about my most important Needs (Things)
 
 Service-App
