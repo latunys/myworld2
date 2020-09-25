@@ -16,12 +16,6 @@
     
     1.4 [Maturity Target](mental.html)
     
-        1.4.1 Health
-        
-        1.4.2 Finance
-
-
-
 
 
 2. Established
