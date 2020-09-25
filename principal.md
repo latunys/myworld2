@@ -11,9 +11,10 @@
    - The only way we can provide a consistent and measurable level of quality information to decision-makers is if all organizations abide by the principles.
    
    Implications:
-   
     - Without this principle, exclusions, favoritism, and inconsistency would rapidly undermine the management of information
+    
     - Information management initiatives will not begin until they are examined for compliance with the principles
+    
     - A conflict with a principle will be resolved by changing the framework of the initiative
 
    
