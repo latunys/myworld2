@@ -2,7 +2,7 @@
 
 **1. Business Principles**
 
-   Principle 1: Primacy of Principles
+   *Principle 1: Primacy of Principles*
 
 2. Data Principles
 
