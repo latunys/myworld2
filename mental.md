@@ -1,6 +1,7 @@
 ## [Mental](pre.html)
 
 - mytimeline
+- status care (status non-care)(dashboard, grafics, simple views)
 - timeline humans, society, local, close
 - clouds needs
 - categories needs
