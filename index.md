@@ -2,7 +2,7 @@
 
 
 
-## My World 
+## Enterprise Architecture My World 
 
 
 
@@ -40,7 +40,7 @@
 
 
 
-### Others Architecture's
+### Architectures Others Organisations and Peoples
 [Close](#) [Business](#)
 
 ### Support or Contact
