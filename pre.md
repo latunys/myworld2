@@ -32,7 +32,7 @@
     
     2.3 [Tools and Support](tools.html)
     
-    2.4 Architecture Principles
+    2.4 [Architecture Principles](principal.html)
     
     
 ``` markdown
