@@ -1,9 +1,7 @@
 ## [Maturity Target](pre.html)
 
-### Mental
-
 **month**
-github-mvp-app
+The Care - github-mvp-app
 
 **quarter**
 
@@ -22,6 +20,8 @@ github-mvp-app
 **50 years**
 
 
+### The Care (Mental)
+
 - mytimeline
 - status care (status non-care)(dashboard, grafics, simple views)
 - timeline humans, society, local, close
@@ -32,18 +32,6 @@ github-mvp-app
 - experts
 
 
-
-
-**tech**
-- markdown
-- jekyll
-- pelican
-- next.js
-- graphics
-- api services and startups
-- github
-- habr hubs
-- science hubs
 
 My Hard Care about my most important Needs (Things)
 
@@ -61,42 +49,8 @@ Company
 
 ### Health
 
-**month**
-github-mvp-app
 
-**quarter**
-
-**half year**
-
-**year**
-
-**3 years**
-
-**5 years**
-
-**10 years**
-
-**25 years**
-
-**50 years**
 
 ### Finance
 
-**month**
-github-mvp-app
 
-**quarter**
-
-**half year**
-
-**year**
-
-**3 years**
-
-**5 years**
-
-**10 years**
-
-**25 years**
-
-**50 years**
