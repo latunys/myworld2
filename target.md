@@ -1,13 +1,16 @@
 ## [Maturity Target](pre.html)
 
 **month**
-The Care - github-mvp-app
+github-mvp-app - The Care 
 
 **quarter**
+github-mvp-app - The Care, Health, Finance 
 
 **half year**
+github-mvp-app -  + Close (Family(+everyone)+Close peoples)
 
 **year**
+github-mvp-app -  + Projects
 
 **3 years**
 
