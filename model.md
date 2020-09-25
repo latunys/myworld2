@@ -1,7 +1,7 @@
 ## [Organisation Model](pre.html)
 
 - Scope of organizations impacted 
-  (the biggist)
+  (the biggist on all life)
 - Maturity assessment, gaps, and resolution approach
   (analytics, narrow places, ?)
 - Roles and responsibilities for architecture team(s)
