@@ -1,6 +1,6 @@
 ## [Maturity Target](pre.html)
 
-**Mental**
+### Mental
 
 - mytimeline
 - status care (status non-care)(dashboard, grafics, simple views)
@@ -39,5 +39,6 @@ Company
 
 1 M in month on MVP
 
-- Health
-- Finance
+### Health
+
+### Finance
