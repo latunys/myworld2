@@ -1,8 +1,8 @@
 ## [Architecture Principles](pre.html)
 
-**1. Business Principles**
+### 1. Business Principles
 
-   *Principle 1: Primacy of Principles*
+   **Principle 1: Primacy of Principles**
    
    Statement:
    - These principles of information management apply to all organizations within the enterprise.
@@ -16,7 +16,7 @@
    - A conflict with a principle will be resolved by changing the framework of the initiative.
 
    
-   *Principle 2: Maximize  Benefit to the Enterprise*
+   **Principle 2: Maximize  Benefit to the Enterprise**
    
    Statement:
    - Information management decisions are made to provide maximum benefit to the enterprise as a whole.
