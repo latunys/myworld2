@@ -10,7 +10,7 @@
    
    Implications:
    
-   *Principle 2: Primacy of Principles*
+   *Principle 2: Maximize  Benefit to the Enterprise*
    
    Statement:
    
