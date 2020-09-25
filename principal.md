@@ -3,6 +3,14 @@
 **1. Business Principles**
 
    *Principle 1: Primacy of Principles*
+   
+   Statement:
+   Rationale:
+   Implications:
+   
+   *Principle 2: Primacy of Principles*
+   
+   
 
 2. Data Principles
 
