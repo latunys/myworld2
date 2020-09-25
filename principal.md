@@ -63,6 +63,23 @@
    - Recoverability, redundancy, and maintainability should be addressed at the time of design.
    - Applications must be assessed for criticality and impact on the enterprise mission, in order to determine what level of continuity is required and what corresponding recovery plan is necessary.
    
+   **Principle 5: Common Use Applications**
+   
+   Statement:
+    - Development of applications used across the enterprise is preferred over the development of similar or duplicative applications which are only provided to a particular organization.
+    
+   Rationale:
+    - Duplicative capability is expensive and proliferates conflicting data.
+    
+   Implications:
+    - Organizations which depend on a capability which does not serve the entire enterprise must change over to the replacement enterprise-wide capability; this will require establishment of and adherence to a policy requiring this
+    - Organizations will not be allowed to develop capabilities for their own use which are similar/duplicative of enterprise-wide capabilities; in this way, expenditures of scarce resources to develop essentially the same capability in marginally different ways will be reduced
+    - Data and information used to support enterprise decision-making will be standardized to a much greater extent than previously
+
+   This is because the smaller, organizational capabilities which produced different data (which was not shared among other organizations) will be replaced by enterprise-wide capabilities. The impetus for adding to the set of enterprise-wide capabilities may well come from an organization making a convincing case for the value of the data/information previously produced by its organizational capability, but the resulting capability will become part of the enterprise-wide system, and the data it produces will be shared across the enterprise.
+
+
+   
    
    
    
