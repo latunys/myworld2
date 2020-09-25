@@ -30,22 +30,20 @@ service-app - All inclusive
 
 ### The Care (Mental)
 
+My Hard Care about my most important Needs (Things)
+
 - mytimeline
-- status care (status non-care)(dashboard, grafics, simple views)
+- status care (status non-care)(Full Dashboard Analitics, grafics, simple views)
 - timeline humans, society, local, close
 - clouds needs
 - categories needs
 - only my needs
 - real needs
+- existence
 - experts
 
 
 
-My Hard Care about my most important Needs (Things)
-
-existence
-
-Status  Care on Now (Full Dashboard Analitics and Simple View)
 
 Service-App
 
@@ -64,28 +62,46 @@ Company
 **month**
 10.000 
 
+spending
+
 **quarter**
 30.000 
+
+spending
 
 **half year**
 60.000
 
+spending
+
 **year**
 120.000
+
+spending
 
 **3 years**
 360.000
 
+spending
+
 **5 years**
 600.000
+
+spending
 
 **10 years**
 1.200.000
 
+spending
+
 **25 years**
 3.000.000
 
+spending
+
 **50 years**
 6.000.000
+
+spending
 
 
