@@ -26,7 +26,7 @@
 
 2. Established
 
-    2.1 Organisation Model
+    2.1 [Organisation Model](model.html)
     2.2 Government
     2.3 Tools and Support
     2.4 Architecture Principles
