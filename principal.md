@@ -1,6 +1,6 @@
 ## [Architecture Principles](pre.html)
 
-1. **Business Principles**
+**1. Business Principles**
 
    Principle 1: Primacy of Principles
 
