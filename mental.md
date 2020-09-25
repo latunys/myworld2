@@ -24,6 +24,8 @@
 
 My Hard Care about my most important Needs (Things)
 
+existence
+
 Service-App
 
 Enterprise Architecture
