@@ -1,5 +1,18 @@
 ## [Frameworks](pre.html)
 
+### MVP
+
+- markdown
+- jekyll
+- pelican
+- next.js
+- graphics
+- api services and startups
+- github
+- habr hubs
+- science hubs
+
+### Service-App
 
 - TOGAF
 
