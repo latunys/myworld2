@@ -2,6 +2,10 @@
 
 ### My Care about My most important Needs (Things)
 
+**reality**
+
+**practice**
+
 **partners**
 
 
