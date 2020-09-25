@@ -26,6 +26,8 @@ My Hard Care about my most important Needs (Things)
 
 existence
 
+Status  Care on Now (Full Dashboard Analitics and Simple View)
+
 Service-App
 
 Enterprise Architecture
