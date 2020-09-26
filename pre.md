@@ -31,7 +31,7 @@
 
 ### Inputs
 
-** 1. Reference 
+**1. Reference**
     
    [TOGAF library](https://pubs.opengroup.org/architecture/togaf9-doc/arch/)
     
