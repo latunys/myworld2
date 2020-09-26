@@ -229,6 +229,46 @@ The main frameworks suggested to be co-ordinated with the TOGAF framework are:
    - **Operations Management Methods** that describe how a company runs its day-to-day operations, including IT
    - **Solution Development Methods** that formalize the way that business systems are delivered in accordance with the structures developed in the IT architecture
    
+   As illustrated in Figure 5-2 , these frameworks are not discrete and there are significant overlaps between them and the Business Capability Management. The latter includes the delivery of performance measured business value.
+
+The overall significance is that the Enterprise Architect applying the TOGAF framework cannot narrowly focus on the IT implementation, but must be aware of the impact that the architecture has on the entire enterprise.
+   
    ![image](https://pubs.opengroup.org/architecture/togaf9-doc/arch/Figures/06_mgmtfwks.png)
+   
+   The Preliminary Phase therefore involves doing any necessary work to adapt the ADM to define an organization-specific framework, using either the TOGAF deliverables or the deliverables of another framework. The issues involved in this are discussed in 4.3 Adapting the ADM .
+   
+**6. Relating the Management Frameworks**
+
+Figure 5-3 illustrates a more detailed set of dependencies between the various frameworks and business planning activity that incorporates the enterprise's strategic plan and direction. The Enterprise Architecture can be used to provide a structure for all of the corporate initiatives, the Portfolio Management Framework can be used to deliver the components of the architecture, and the Operations Management Framework supports incorporation of these new components within the corporate infrastructure.
+
+The business planners are present throughout the process and are in a position to support and enforce the architecture by retaining approval for resources at the various stages of planning and development.
+
+The solution development methodology is used within the Portfolio Management Framework to plan, create, and deliver the architectural components specified in the project and portfolio charters. These deliverables include, but are not exclusively, IT; for example, a new building, a new set of skills, production equipment, hiring, marketing, and so on. Enterprise Architecture potentially provides the context for all enterprise activities.
+
+The management frameworks are required to complement each other and work in close harmony for the good of the enterprise.
+
+  ![image](https://pubs.opengroup.org/architecture/togaf9-doc/arch/Figures/06_mgmtfwks_interop.png)
+  
+  Business planning at the strategy level provides the initial direction to Enterprise Architecture. Updates at the annual planning level provide a finer level of ongoing guidance. Capability-based planning is one of many popular techniques for business planning.
+
+Enterprise Architecture structures the business planning into an integrated framework that regards the enterprise as a system or system of systems. This integrated approach will validate the business plan and can provide valuable feedback to the corporate planners. In some organizations, the Enterprise Architects have been moved to or work very closely with the strategic direction groups. The TOGAF approach delivers a framework for Enterprise Architecture.
+
+Project/portfolio management is the delivery framework that receives the structured, detailed direction that enables them to plan and build what is required, knowing that each assigned deliverable will be in context (i.e., the piece of the puzzle that they deliver will fit into the corporate puzzle that is the Enterprise Architecture). Often this framework is based upon the Project Management Institute or UK Office of Government Commerce (PRINCE2) project management methodologies. Project architectures and detailed out-of-context design are often based upon systems design methodologies.
+
+Operations management receives the deliverables and then integrates and sustains them within the corporate infrastructure. Often the IT service management services are based upon ISO/IEC 20000:2011 or BS15000 (ITIL).
+
+**7. Planning for Enterprise Architecture/Business Change Maturity Evaluation**
+
+Capability Maturity Models (detailed in Part VI, 45. Architecture Maturity Models) are useful ways of assessing the ability of an enterprise to exercise different capabilities.
+
+Capability Maturity Models typically identify selected factors that are required to exercise a capability. An organization's ability to execute specific factors provides a measure of maturity and can be used to recommend a series of sequential steps to improve a capability. It is an assessment that gives executives an insight into pragmatically improving a capability.
+
+A good Enterprise Architecture maturity model covers the characteristics necessary to develop and consume Enterprise Architecture. Organizations can determine their own factors and derive the appropriate maturity models, but it is recommended to take an existing model and customize it as required.
+
+Several good models exist, including NASCIO, and the US Department of Commerce Architecture Capability Maturity Model.
+
+The use of Capability Maturity Models is detailed in Part VI, 45. Architecture Maturity Models .
+
+Other examples include the US Federal Enterprise Architecture Maturity Model. Even though the models are originally from government, they are equally applicable to industry. 
     
 
