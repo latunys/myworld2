@@ -130,5 +130,70 @@ Issues in tools standardization are discussed in Part V, 38. Tools for Architect
 
 ### Outputs
 
+   - Organizational Model for Enterprise Architecture
+   - Tailored Architecture Framework
+   - Initial Architecture Repository (see Part IV, 32.2.5 Architecture Repository), populated with framework content
+   - Restatement of, or reference to, business principles, business goals, and business drivers 
+   - Request for Architecture Work 
+   - Architecture Governance Framework
+   
+   - Catalogs: 
+     - Principles catalog
+
 ### Approach
+
+This Preliminary Phase is about defining "where, what, why, who, and how we do architecture" in the enterprise concerned. The main aspects are as follows:
+   - Defining the enterprise
+   - Identifying key drivers and elements in the organizational context
+   - Defining the requirements for architecture work
+   - Defining the Architecture Principles that will inform any architecture work
+   - Defining the framework to be used
+   - Defining the relationships between management frameworks
+   - Evaluating the Enterprise Architecture maturity
+   
+   The Enterprise Architecture provides a strategic, top-down view of an organization to enable executives, planners, architects, and engineers to coherently co-ordinate, integrate, and conduct their activities. The Enterprise Architecture framework provides the strategic context within which this team can operate.
+
+Therefore, developing the Enterprise Architecture is not a solitary activity and the Enterprise Architects need to recognize the interoperability between their frameworks and the rest of the business.
+
+Strategic, interim, and tactical business objectives and aspirations need to be met. Similarly, the Enterprise Architecture needs to reflect this requirement and allow for operation of architecture discipline at different levels within the organization.
+
+Depending on the scale of the enterprise and the level of budgetary commitment to Enterprise Architecture discipline, a number of approaches may be adopted to sub-divide or partition architecture teams, processes, and deliverables. Approaches for architecture partitioning are discussed in Part V, 36. Architecture Partitioning . The Preliminary Phase should be used to determine the desired approach to partitioning and to establish the groundwork for the selected approach to be put into practice.
+
+The Preliminary Phase may be revisited, from the Architecture Vision phase (see Part III, 18. Applying Iteration to the ADM), in order to ensure that the organization's Architecture Capability is suitable to address a specific architecture problem.
+
+**1. Enterprise**
+
+ One of the main challenges of Enterprise Architecture is that of enterprise scope.
+
+The scope of the enterprise, and whether it is federated, will determine those stakeholders who will derive most benefit from the Enterprise Architecture Capability. It is imperative that a sponsor is appointed at this stage to ensure that the resultant activity has resources to proceed and the clear support of the business management. The enterprise may encompass many organizations and the duties of the sponsor are to ensure that all stakeholders are included in defining, establishing, and using the Architecture Capability.
+
+**2. Organizational Context**
+
+In order to make effective and informed decisions about the framework for architecture to be used within a particular enterprise, it is necessary to understand the context surrounding the architecture framework. Specific areas to consider would include:
+
+   - The commercial models for Enterprise Architecture and budgetary plans for Enterprise Architecture activity; where no such plans exist, the Preliminary Phase should be used to develop a budget plan
+   - The stakeholders for architecture in the enterprise; their key issues and concerns
+   - The intentions and culture of the organization, as captured within board business directives, business imperatives, business strategies, business principles, business goals, and business drivers
+   - Current processes that support execution of change and operation of the enterprise, including the structure of the process and also the level of rigor and formality applied within the organization 
+   
+     Areas for focus should include:
+     - Current methods for architecture description
+     - Current project management frameworks and methods
+     - Current systems management frameworks and methods
+     - Current project portfolio management processes and methods
+     - Current application portfolio management processes and methods
+     - Current technology portfolio management processes and methods
+     - Current information portfolio management processes and methods
+     - Current systems design and development frameworks and methods
+     
+  - The Baseline Architecture landscape, including the state of the enterprise and also how the landscape is currently represented in documentation form
+  - The skills and capabilities of the enterprise and specific organizations that will be adopting the framework
+  
+  Review of the organizational context should provide valuable requirements on how to tailor the architecture framework in terms of:
+    - Level of formality and rigor to be applied
+    - Level of sophistication and expenditure required
+    - Touch-points with other organizations, processes, roles, and responsibilities
+    - Focus of content coverage
+    
+    
 
