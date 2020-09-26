@@ -16,13 +16,13 @@
     
 **2. Established**
 
-    2.1 [Organisation Model](model.html)
+   2.1 [Organisation Model](model.html)
     
-    2.2 [Government](gover.html)
+   2.2 [Government](gover.html)
     
-    2.3 [Tools and Support](tools.html)
+   2.3 [Tools and Support](tools.html)
     
-    2.4 [Architecture Principles](principal.html)
+   2.4 [Architecture Principles](principal.html)
     
 
 ### Inputs
