@@ -190,10 +190,11 @@ In order to make effective and informed decisions about the framework for archit
   - The skills and capabilities of the enterprise and specific organizations that will be adopting the framework
   
   Review of the organizational context should provide valuable requirements on how to tailor the architecture framework in terms of:
-    - Level of formality and rigor to be applied
-    - Level of sophistication and expenditure required
-    - Touch-points with other organizations, processes, roles, and responsibilities
-    - Focus of content coverage
+  
+   - Level of formality and rigor to be applied
+   - Level of sophistication and expenditure required
+   - Touch-points with other organizations, processes, roles, and responsibilities
+   - Focus of content coverage
     
     
 
