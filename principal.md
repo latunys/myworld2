@@ -77,13 +77,61 @@
     - Data and information used to support enterprise decision-making will be standardized to a much greater extent than previously
 
    This is because the smaller, organizational capabilities which produced different data (which was not shared among other organizations) will be replaced by enterprise-wide capabilities. The impetus for adding to the set of enterprise-wide capabilities may well come from an organization making a convincing case for the value of the data/information previously produced by its organizational capability, but the resulting capability will become part of the enterprise-wide system, and the data it produces will be shared across the enterprise.
+   
+   **Principle 6: Service Orientation**
+   
+   Statement:
+   - The architecture is based on a design of services which mirror real-world business activities comprising the enterprise (or inter-enterprise) business processes.
+   
+   Rationale:
+   - Service orientation delivers enterprise agility and Boundaryless Information Flow.
+   
+   Implications:
+   - Service representation utilizes business descriptions to provide context (i.e., business process, goal, rule, policy, service interface, and service component) and implements services using service orchestration
+   - Service orientation places unique requirements on the infrastructure, and implementations should use open standards to realize interoperability and location transparency
+   - Implementations are environment-specific; they are constrained or enabled by context and must be described within that context
+   - Strong governance of service representation and implementation is required
+   - A "Litmus Test", which determines a "good service", is required
+   
+   **7. Compliance with Law**
+   
+   Statement:
+   - Enterprise information management processes comply with all relevant laws, policies, and regulations.
+   
+   Rationale:
+   - Enterprise policy is to abide by laws, policies, and regulations. This will not preclude business process improvements that lead to changes in policies and regulations.
+   
+   Implications:
+      - The enterprise must be mindful to comply with laws, regulations, and external policies regarding the collection, retention, and management of data
+      - Education and access to the rules 
+      
+   Efficiency, need, and common sense are not the only drivers. Changes in the law and changes in regulations may drive changes in our processes or applications.
+   
+   **8. IT Responsibility**
+   
+   Statement:
+   - The IT organization is responsible for owning and implementing IT processes and infrastructure that enable solutions to meet user-defined requirements for functionality, service levels, cost, and delivery timing.
 
-
+   Rationale:
+   - Effectively align expectations with capabilities and costs so that all projects are cost-effective. Efficient and effective solutions have reasonable costs and clear benefits.
    
+   Implications:
+   - A process must be created to prioritize projects
+   - The IT function must define processes to manage business unit expectations
+   - Data, application, and technology models must be created to enable integrated quality solutions and to maximize results
    
+   **9. Protection of Intellectual Property**
    
+   Statement:
+   - The enterprise's Intellectual Property (IP) must be protected. This protection must be reflected in the IT architecture, implementation, and governance processes.
    
+   Rationale:
+   - A major part of an enterprise's IP is hosted in the IT domain.
    
+   Implications:
+      - While protection of IP assets is everybody's business, much of the actual protection is implemented in the IT domain - even trust in non-IT processes can be managed by IT processes (email, mandatory notes, etc.)
+      - A security policy, governing human and IT actors, will be required that can substantially improve protection of IP; this must be capable of both avoiding compromises and reducing liabilities
+      - Resources on such policies can be found at the SANS Institute (refer to www.sans.org/security-resources/policies)
 
 ### 2. Data Principles
 
