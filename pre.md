@@ -43,7 +43,19 @@
    
    [COBIT5](https://latunys.github.io/?/cobit.html)
    
-   [ITIL4](https://latunys.github.io/?/pmbook.html)
+   [ITIL4](https://latunys.github.io/?/itil.html)
+   
+   [CMMI](https://latunys.github.io/?/cmmi.html)
+
+**3. Architectural**
+
+- Organizational Model for Enterprise Architecture 
+- Existing Architecture Framework, including: 
+  - Architecture method
+  - Architecture content
+  - Configured and deployed tools
+  - Architecture Principles
+  - Architecture Repository
 
 ### Steps
 
