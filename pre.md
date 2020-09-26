@@ -32,6 +32,8 @@
    [TOGAF library](https://pubs.opengroup.org/architecture/togaf9-doc/arch/)
    
 **2. Non-Architectural**
+
+   - Board strategies and board business plans, business strategy, IT strategy, business principles, business goals, and business drivers, when pre-existing
     
    [PMBOOK](https://latunys.github.io/pm/pmbook.html)
    
@@ -42,6 +44,9 @@
    [ITIL4](https://latunys.github.io/?/itil.html)
    
    [CMMI](https://latunys.github.io/?/cmmi.html)
+   
+   - Architecture capability
+   - Partnership and contract agreements
 
 **3. Architectural**
 
