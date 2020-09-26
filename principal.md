@@ -167,16 +167,16 @@
 Shared data will result in improved decisions since we will rely on fewer (ultimately one virtual) sources of more accurate and timely managed data for all of our decision-making. Electronically shared data will result in increased efficiency when existing data entities can be used, without re-keying, to create new entities.
    
    Implications:
-                - This is one of three closely-related principles regarding data: data is an asset; data is shared; and data is easily accessible
+   - This is one of three closely-related principles regarding data: data is an asset; data is shared; and data is easily accessible
                 The implication is that there is an education task to ensure that all organizations within the enterprise understand the relationship between value of data, sharing of data, and accessibility to data.
-                - To enable data sharing we must develop and abide by a common set of policies, procedures, and standards governing data management and access for both the short and the long term
-                - For the short term, to preserve our significant investment in legacy systems, we must invest in software capable of migrating legacy system data into a shared data environment
-                - We will also need to develop standard data models, data elements, and other metadata that defines this shared environment and develop a repository system for storing this metadata to make it accessible
-                - For the long term, as legacy systems are replaced, we must adopt and enforce common data access policies and guidelines for new application developers to ensure that data in new applications remains available to the shared environment and that data in the shared environment can continue to be used by the new applications
-                - For both the short term and the long term we must adopt common methods and tools for creating, maintaining, and accessing the data shared across the enterprise
-                - Data sharing will require a significant cultural change
-                - This principle of data sharing will continually "bump up against" the principle of data security - under no circumstances will the data sharing principle cause confidential data to be compromised
-                - Data made available for sharing will have to be relied upon by all users to execute their respective tasks 
+   - To enable data sharing we must develop and abide by a common set of policies, procedures, and standards governing data management and access for both the short and the long term
+   - For the short term, to preserve our significant investment in legacy systems, we must invest in software capable of migrating legacy system data into a shared data environment
+   - We will also need to develop standard data models, data elements, and other metadata that defines this shared environment and develop a repository system for storing this metadata to make it accessible
+   - For the long term, as legacy systems are replaced, we must adopt and enforce common data access policies and guidelines for new application developers to ensure that data in new applications remains available to the shared environment and that data in the shared environment can continue to be used by the new applications
+   - For both the short term and the long term we must adopt common methods and tools for creating, maintaining, and accessing the data shared across the enterprise
+   - Data sharing will require a significant cultural change
+   - This principle of data sharing will continually "bump up against" the principle of data security - under no circumstances will the data sharing principle cause confidential data to be compromised
+   - Data made available for sharing will have to be relied upon by all users to execute their respective tasks 
                 
    This will ensure that only the most accurate and timely data is relied upon for decision-making. Shared data will become the enterprise-wide "virtual single source" of data.
        
@@ -189,12 +189,12 @@ Shared data will result in improved decisions since we will rely on fewer (ultim
    - Wide access to data leads to efficiency and effectiveness in decision-making, and affords a timely response to information requests and service delivery. Using information must be considered from an enterprise perspective to allow access by a wide variety of users. Staff time is saved and consistency of data is improved.
    
    Implications:
-                 - This is one of three closely-related principles regarding data: data is an asset; data is shared; and data is easily accessible 
+   - This is one of three closely-related principles regarding data: data is an asset; data is shared; and data is easily accessible 
                  The implication is that there is an education task to ensure that all organizations within the enterprise understand the relationship between value of data, sharing of data, and accessibility to data.
-                 - Accessibility involves the ease with which users obtain information
-                 - The way information is accessed and displayed must be sufficiently adaptable to meet a wide range of enterprise users and their corresponding methods of access
-                 - Access to data does not constitute understanding of the data - personnel should take caution not to misinterpret information
-                 - Access to data does not necessarily grant the user access rights to modify or disclose the data 
+   - Accessibility involves the ease with which users obtain information
+   - The way information is accessed and displayed must be sufficiently adaptable to meet a wide range of enterprise users and their corresponding methods of access
+   - Access to data does not constitute understanding of the data - personnel should take caution not to misinterpret information
+   - Access to data does not necessarily grant the user access rights to modify or disclose the data 
                  
    This will require an education process and a change in the organizational culture, which currently supports a belief in "ownership" of data by functional units.
    
@@ -210,11 +210,11 @@ Note:
     A trustee is different than a steward - a trustee is responsible for accuracy and currency of the data, while responsibilities of a steward may be broader and include data standardization and definition tasks. 
     
    Implications:
-                 - Real trusteeship dissolves the data "ownership" issues and allows the data to be available to meet all users' needs
+   - Real trusteeship dissolves the data "ownership" issues and allows the data to be available to meet all users' needs
                  This implies that a cultural change from data "ownership" to data "trusteeship" may be required.
-                 - The data trustee will be responsible for meeting quality requirements levied upon the data for which the trustee is accountable
-                 - It is essential that the trustee has the ability to provide user confidence in the data based upon attributes such as "data source"
-                 - It is essential to identify the true source of the data in order that the data authority can be assigned this trustee responsibility 
+   - The data trustee will be responsible for meeting quality requirements levied upon the data for which the trustee is accountable
+   - It is essential that the trustee has the ability to provide user confidence in the data based upon attributes such as "data source"
+   - It is essential to identify the true source of the data in order that the data authority can be assigned this trustee responsibility 
                  
    This does not mean that classified sources will be revealed nor does it mean the source will be the trustee.
                  
@@ -231,10 +231,10 @@ Note:
    - The data that will be used in the development of applications must have a common definition throughout the Headquarters to enable sharing of data. A common vocabulary will facilitate communications and enable dialog to be effective. In addition, it is required to interface systems and exchange data.
    
    Implications:
-                - We are lulled into thinking that this issue is adequately addressed because there are people with "data administration" job titles and forums with charters implying responsibility 
+   - We are lulled into thinking that this issue is adequately addressed because there are people with "data administration" job titles and forums with charters implying responsibility 
                 Significant additional energy and resources must be committed to this task. It is key to the success of efforts to improve the information environment. This is separate from but related to the issue of data element definition, which is addressed by a broad community - this is more like a common vocabulary and definition.
-                - The enterprise must establish the initial common vocabulary for the business; the definitions will be used uniformly throughout the enterprise
-                - Whenever a new data definition is required, the definition effort will be co-ordinated and reconciled with the corporate "glossary" of data descriptions 
+   - The enterprise must establish the initial common vocabulary for the business; the definitions will be used uniformly throughout the enterprise
+   - Whenever a new data definition is required, the definition effort will be co-ordinated and reconciled with the corporate "glossary" of data descriptions 
                 The enterprise data administrator will provide this co-ordination.
                 
    - Ambiguities resulting from multiple parochial definitions of data must give way to accepted enterprise-wide definitions and understanding
