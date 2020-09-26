@@ -144,12 +144,12 @@
   - Data is a valuable corporate resource; it has real, measurable value. In simple terms, the purpose of data is to aid decision-making. Accurate, timely data is critical to accurate, timely decisions. Most corporate assets are carefully managed, and data is no exception. Data is the foundation of our decision-making, so we must also carefully manage data to ensure that we know where it is, can rely upon its accuracy, and can obtain it when and where we need it.
   
   Implications:
-              - This is one of three closely-related principles regarding data: data is an asset; data is shared; and data is easily accessible 
+  - This is one of three closely-related principles regarding data: data is an asset; data is shared; and data is easily accessible 
               The implication is that there is an education task to ensure that all organizations within the enterprise understand the relationship between value of        data, sharing of data, and accessibility to data.
-              - Stewards must have the authority and means to manage the data for which they are accountable
-              - We must make the cultural transition from "data ownership" thinking to "data stewardship" thinking
-              - The role of data steward is critical because obsolete, incorrect, or inconsistent data could be passed to enterprise personnel and adversely affect decisions across the enterprise
-              - Part of the role of data steward, who manages the data, is to ensure data quality 
+  - Stewards must have the authority and means to manage the data for which they are accountable
+  - We must make the cultural transition from "data ownership" thinking to "data stewardship" thinking
+  - The role of data steward is critical because obsolete, incorrect, or inconsistent data could be passed to enterprise personnel and adversely affect decisions across the enterprise
+  - Part of the role of data steward, who manages the data, is to ensure data quality 
               
    Procedures must be developed and used to prevent and correct errors in the information and to improve those processes that produce flawed information. Data quality will need to be measured and steps taken to improve data quality - it is probable that policy and procedures will need to be developed for this as well.
    
