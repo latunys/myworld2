@@ -129,9 +129,9 @@
    - A major part of an enterprise's IP is hosted in the IT domain.
    
    Implications:
-      - While protection of IP assets is everybody's business, much of the actual protection is implemented in the IT domain - even trust in non-IT processes can be managed by IT processes (email, mandatory notes, etc.)
-      - A security policy, governing human and IT actors, will be required that can substantially improve protection of IP; this must be capable of both avoiding compromises and reducing liabilities
-      - Resources on such policies can be found at the SANS Institute (refer to www.sans.org/security-resources/policies)
+   - While protection of IP assets is everybody's business, much of the actual protection is implemented in the IT domain - even trust in non-IT processes can be managed by IT processes (email, mandatory notes, etc.)
+   - A security policy, governing human and IT actors, will be required that can substantially improve protection of IP; this must be capable of both avoiding compromises and reducing liabilities
+   - Resources on such policies can be found at the SANS Institute (refer to www.sans.org/security-resources/policies)
 
 ### 2. Data Principles
 
