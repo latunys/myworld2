@@ -116,6 +116,17 @@ COBIT5?
     - Links to procurement processes
     
   - **Content Tailoring:** using the TOGAF Architecture Content Framework and Enterprise Continuum as a basis, tailoring of content structure and classification approach allows adoption of third-party content frameworks and also allows for customization of the framework to support organization-specific requirements
+ 
+ 
+**6. Develop a Strategy and Implementation Plan for Tools and Techniques**
+
+  There are many tools and techniques which may be used to develop Enterprise Architecture across many domains. The development of a tools strategy is recommended that reflects the understanding and level of formality required by the enterprise's stakeholders. Architecture content will be highly dependent on the scale, sophistication, and culture of both the stakeholders and the Architecture Capability within the organization. A tools strategy which recognizes the stakeholders' articulation requirements will enable more effective and rapid decision-making by stakeholders and their ownership of artifacts.
+
+The strategy should encompass management techniques, decision management, workshop techniques, business modeling, detailed infrastructure modeling, office products, languages, and repository management as well as more formal architecture tools. For example, the Balanced Scorecard technique is a best practice performance measurement tool used by business schools and many organizations that can be used successfully in architecture projects.
+
+The implementation of the tools strategy may be based on common desktop and office tools or may be based on a customized deployment of specialist management and architecture tools. Change management of the artifact deliverables is a major consideration and a degree of management control and governance of artifacts needs to be considered. Access to decisions needs to be managed carefully as many of the artifacts may contain sensitive information. Therefore the tools implementation, access, and security of the content needs to reflect the sensitivity requirements.
+
+Issues in tools standardization are discussed in Part V, 38. Tools for Architecture Development .
 
 ### Outputs
 
