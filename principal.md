@@ -241,10 +241,128 @@ Note:
    - Multiple data standardization initiatives need to be co-ordinated
    - Functional data administration responsibilities must be assigned
    
+   **Principle 15: Data Security**
    
+   Statement:
+   - Data is protected from unauthorized use and disclosure. In addition to the traditional aspects of national security classification, this includes, but is not limited to, protection of pre-decisional, sensitive, source selection-sensitive, and proprietary information.
+   
+   Rationale:
+   - Open sharing of information and the release of information via relevant legislation must be balanced against the need to restrict the availability of classified, proprietary, and sensitive information.
+
+Existing laws and regulations require the safeguarding of national security and the privacy of data, while permitting free and open access. Pre-decisional (work-in-progress, not yet authorized for release) information must be protected to avoid unwarranted speculation, misinterpretation, and inappropriate use.
+
+   Implications:
+   - Aggregation of data, both classified and not, will create a large target requiring review and de-classification procedures to maintain appropriate control 
+   Data owners and/or functional users must determine whether the aggregation results in an increased classification level. Appropriate policy and procedures will be needed to handle this review and de-classification. Access to information based on a need-to-know policy will force regular reviews of the body of information.
+   - The current practice of having separate systems to contain different classifications needs to be rethought 
+   Is there a software solution to separating classified and unclassified data? The current hardware solution is unwieldy, inefficient, and costly. It is more expensive to manage unclassified data on a classified system. Currently, the only way to combine the two is to place the unclassified data on the classified system, where it must remain.
+   - In order to adequately provide access to open information while maintaining secure information, security needs must be identified and developed at the data level, not the application level
+   - Data security safeguards can be put in place to restrict access to "view only" or "never see" 
+   Sensitivity labeling for access to pre-decisional, decisional, classified, sensitive, or proprietary information must be determined.
+   - Security must be designed into data elements from the beginning; it cannot be added later 
+   Systems, data, and technologies must be protected from unauthorized access and manipulation. Headquarters information must be safeguarded against inadvertent or unauthorized alteration, sabotage, disaster, or disclosure.
+   - New policies are needed on managing duration of protection for pre-decisional information and other works-in-progress, in consideration of content freshness
                  
-  
 
 ### 3. Application Principles
 
+**Principle 16: Technology Independence**
+
+Statement:
+- Applications are independent of specific technology choices and therefore can operate on a variety of technology platforms.
+
+Rationale:
+- Independence of applications from the underlying technology allows applications to be developed, upgraded, and operated in the most cost-effective and timely way. Otherwise technology, which is subject to continual obsolescence and vendor dependence, becomes the driver rather than the user requirements themselves.
+
+Realizing that every decision made with respect to IT makes us dependent on that technology, the intent of this principle is to ensure that Application Software is not dependent on specific hardware and operating systems software.
+
+Implications:
+- This principle will require standards which support portability
+- For Commercial Off-The-Shelf (COTS) and Government Off-The-Shelf (GOTS) applications, there may be limited current choices, as many of these applications are technology and platform-dependent
+- Subsystem interfaces will need to be developed to enable legacy applications to interoperate with applications and operating environments developed under the Enterprise Architecture
+- Middleware should be used to decouple applications from specific software solutions
+- As an example, this principle could lead to use of Java, and future Java-like protocols, which give a high degree of priority to platform-independence
+
+**Principle 17: Ease-of-Use**
+
+Statement:
+- Applications are easy to use. The underlying technology is transparent to users, so they can concentrate on tasks at hand.
+
+Rationale:
+- The more a user has to understand the underlying technology, the less productive that user is. Ease-of-use is a positive incentive for use of applications. It encourages users to work within the integrated information environment instead of developing isolated systems to accomplish the task outside of the enterprise's integrated information environment. Most of the knowledge required to operate one system will be similar to others. Training is kept to a minimum, and the risk of using a system improperly is low.
+
+Using an application should be as intuitive as driving a different car.
+
+Implications:
+- Applications will be required to have a common "look-and-feel" and support ergonomic requirements; hence, the common look-and-feel standard must be designed and usability test criteria must be developed
+- Guidelines for user interfaces should not be constrained by narrow assumptions about user location, language, systems training, or physical capability 
+Factors such as linguistics, customer physical infirmities (visual acuity, ability to use keyboard/mouse), and proficiency in the use of technology have broad ramifications in determining the ease-of-use of an application.
+
+
 ### 4. Technology Principles
+
+**Principle 18: Requirements-Based Change**
+
+Statement:
+- Only in response to business needs are changes to applications and technology made.
+
+Rationale:
+- This principle will foster an atmosphere where the information environment changes in response to the needs of the business, rather than having the business change in response to IT changes. This is to ensure that the purpose of the information support - the transaction of business - is the basis for any proposed change.
+
+Unintended effects on business due to IT changes will be minimized.
+
+A change in technology may provide an opportunity to improve the business process and, hence, change business needs.
+
+Implications:
+- Changes in implementation will follow full examination of the proposed changes using the Enterprise Architecture
+- There is no funding for a technical improvement or system development unless a documented business need exists
+- Change management processes conforming to this principle will be developed and implemented
+- This principle may bump up against the responsive change principle 
+We must ensure the requirements documentation process does not hinder responsive change to meet legitimate business needs. The purpose of this principle is to keep the focus on business, not technology needs - responsive change is also a business need.
+
+**Principle 19: Responsive Change Management**
+
+Statement:
+- Changes to the enterprise information environment are implemented in a timely manner.
+
+Rationale:
+- If people are to be expected to work within the enterprise information environment, that information environment must be responsive to their needs.
+
+Implications:
+- Processes for managing and implementing change must be developed that do not create delays
+- A user who feels a need for change will need to connect with a "business expert" to facilitate explanation and implementation of that need
+- if changes are going to be made, the architectures must be kept updated
+- Adopting this principle might require additional resources
+- This will conflict with other principles (e.g., maximum enterprise-wide benefit, enterprise-wide applications, etc.)
+
+**Principle 20: Control Technical Diversity**
+
+Statement:
+- Technological diversity is controlled to minimize the non-trivial cost of maintaining expertise in and connectivity between multiple processing environments.
+
+Rationale:
+- There is a real, non-trivial cost of infrastructure required to support alternative technologies for processing environments. There are further infrastructure costs incurred to keep multiple processor constructs interconnected and maintained.
+
+Limiting the number of supported components will simplify maintainability and reduce costs.
+
+The business advantages of minimum technical diversity include: standard packaging of components; predictable implementation impact; predictable valuations and returns; redefined testing; utility status; and increased flexibility to accommodate technological advancements. Common technology across the enterprise brings the benefits of economies of scale to the enterprise. Technical administration and support costs are better controlled when limited resources can focus on this shared set of technology.
+
+Implications:
+- Policies, standards, and procedures that govern acquisition of technology must be tied directly to this principle
+- Technology choices will be constrained by the choices available within the technology blueprint 
+Procedures for augmenting the acceptable technology set to meet evolving requirements will have to be developed and put in place.
+- The technology baseline is not being frozen 
+Technology advances are welcomed and will change the technology blueprint when compatibility with the current infrastructure, improvement in operational efficiency, or a required capability has been demonstrated.
+
+**Principle 21: Interoperability**
+
+Statement:
+- Software and hardware should conform to defined standards that promote interoperability for data, applications, and technology.
+
+Rationale:
+- Standards help ensure consistency, thus improving the ability to manage systems and improve user satisfaction, and protect existing IT investments, thus maximizing return on investment and reducing costs. Standards for interoperability additionally help ensure support from multiple vendors for their products, and facilitate supply chain integration.
+
+Implications:
+- Interoperability standards and industry standards will be followed unless there is a compelling business reason to implement a non-standard solution
+- A process for setting standards, reviewing and revising them periodically, and granting exceptions must be established
+- The existing IT platforms must be identified and documented
