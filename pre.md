@@ -196,5 +196,39 @@ In order to make effective and informed decisions about the framework for archit
    - Touch-points with other organizations, processes, roles, and responsibilities
    - Focus of content coverage
     
+ **3. Requirements for Architecture Work**
+ 
+   The business imperatives behind the Enterprise Architecture work drive the requirements and performance metrics for the architecture work. They should be sufficiently clear so that this phase may scope the business outcomes and resource requirements, and define the outline enterprise business information requirements and associated strategies of the Enterprise Architecture work to be done. For example, these may include:
+   
+   - Business requirements
+   - Cultural aspirations
+   - Organization intents
+   - Strategic intent
+   - Forecast financial requirements
+   
+   Significant elements of these need to be articulated so that the sponsor can identify all the key decision-makers and stakeholders involved in defining and establishing an Architecture Capability.
+   
+ **4. Principles**
+ 
+   The Preliminary Phase defines the Architecture Principles that will form part of the constraints on any architecture work undertaken in the enterprise. The issues involved in this are explained in Part III, 20. Architecture Principles .
+
+The definition of Architecture Principles is fundamental to the development of an Enterprise Architecture. Architecture work is informed by business principles as well as Architecture Principles. The Architecture Principles themselves are also normally based in part on business principles. Defining business principles normally lies outside the scope of the architecture function. However, depending on how such principles are defined and promulgated within the enterprise, it may be possible for the set of Architecture Principles to also restate, or cross-refer to a set of business principles, business goals, and strategic business drivers defined elsewhere within the enterprise. Within an architecture project, the architect will normally need to ensure that the definitions of these business principles, goals, and strategic drivers are current, and to clarify any areas of ambiguity.
+
+The issue of Architecture Governance is closely linked to that of Architecture Principles. The body responsible for governance will also normally be responsible for approving the Architecture Principles, and for resolving architecture issues. The issues involved in governance are explained in Part VI, 44. Architecture Governance .
+
+**5. Management Frameworks**
+
+   The TOGAF Architecture Development Method (ADM) is a generic method, intended to be used by enterprises in a wide variety of industry types and geographies. It is also designed for use with a wide variety of other Enterprise Architecture frameworks, if required (although it can be used perfectly well in its own right, without adaptation).
+
+The TOGAF framework has to co-exist with and enhance the operational capabilities of other management frameworks that are present within any organization either formally or informally. In addition to these frameworks, most organizations have a method for the development of solutions, most of which have an IT component. The significance of systems is that they bring together the various domains (also known as People, Processes, and Material/Technology) to deliver a business capability.
+
+The main frameworks suggested to be co-ordinated with the TOGAF framework are:
+
+   - **Business Capability Management** that determines what business capabilities are required to deliver business value including the definition of return on investment and the requisite control/performance measures
+   - **Project/Portfolio Management Methods** that determine how a company manages its change initiatives
+   - **Operations Management Methods** that describe how a company runs its day-to-day operations, including IT
+   - **Solution Development Methods** that formalize the way that business systems are delivered in accordance with the structures developed in the IT architecture
+   
+   ![image](https://pubs.opengroup.org/architecture/togaf9-doc/arch/Figures/06_mgmtfwks.png)
     
 
