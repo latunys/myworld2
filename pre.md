@@ -60,6 +60,46 @@
 
 ### Steps
 
+**1. Scope the Enterprise Organizations Impacted**
+
+   - Identify core enterprise (units) - those who are most affected and achieve most value from the work
+   - Identify soft enterprise (units) - those who will see change to their capability and work with core units but are otherwise not directly affected
+   - Identify extended enterprise (units) - those units outside the scoped enterprise who will be affected in their own Enterprise Architecture
+   - Identify communities involved (enterprises) - those stakeholders who will be affected and who are in groups of communities
+   - Identify governance involved, including legal frameworks and geographies (enterprises)
+   
+**2. Confirm Governance and Support Frameworks**
+
+   The architecture framework will form the keystone to the flavor (centralized or federated, light or heavy, etc.) of Architecture Governance organization and guidelines that need to be developed. Part of the major output of this phase is a framework for Architecture Governance. We need to understand how architectural material (standards, guidelines, models, compliance reports, etc.) is brought under governance; i.e., what type of governance repository characteristics are going to be required, what relationships and status recording are necessary to ascertain which governance process (dispensation, compliance, take-on, retirement, etc.) has ownership of an architectural artifact.
+
+It is likely that the existing governance and support models of an organization will need to change to support the newly adopted architecture framework.
+
+To manage the organizational change required to adopt the new architectural framework, the current enterprise governance and support models will need to be assessed to understand their overall shape and content. Additionally, the sponsors and stakeholders for architecture will need to be consulted on potential impacts that could occur.
+
+Upon completion of this step, the architecture touch-points and likely impacts should be understood and agreed by relevant stakeholders.
+
+COBIT5?
+
+**3. Define and Establish Enterprise Architecture Team and Organization**
+
+   - Determine existing enterprise and business capability
+   - Conduct an Enterprise Architecture/business change maturity assessment, if required
+   - Identify gaps in existing work areas
+   - Allocate key roles and responsibilities for Enterprise Architecture Capability management and governance
+   - Define requests for change to existing business programs and projects: 
+     - Inform existing Enterprise Architecture and IT architecture work of stakeholder requirements
+     - Request assessment of impact on their plans and work
+     - Identify common areas of interest
+     - Identify any critical differences and conflicts of interest
+     - Produce requests for change to stakeholder activities
+   - Determine constraints on Enterprise Architecture work
+   - Review and agree with sponsors and board
+   - Assess budget requirements
+   
+**4. Identify and Establish Architecture Principles**
+
+   [Principles](principal.html)
+
 ### Outputs
 
 ### Approach
