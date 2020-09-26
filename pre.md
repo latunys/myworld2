@@ -4,7 +4,7 @@
 
 ### Objectives
 
-1. Architecture Capabilities
+**1. Architecture Capabilities**
 
     1.1 [Context](context.html)
     
@@ -14,7 +14,7 @@
     
     1.4 [Maturity Target](target.html)
     
-2. Established
+**2. Established**
 
     2.1 [Organisation Model](model.html)
     
@@ -24,10 +24,6 @@
     
     2.4 [Architecture Principles](principal.html)
     
-    
-``` markdown
-
-```
 
 ### Inputs
 
