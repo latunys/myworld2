@@ -99,6 +99,23 @@ COBIT5?
 **4. Identify and Establish Architecture Principles**
 
    [Principles](principal.html)
+   
+**5. Tailor the TOGAF Framework**
+
+  In this step, determine what tailoring of the TOGAF framework is required. Consider the need for:
+  
+  - **Terminology Tailoring:** architecture practitioners should use terminology that is generally understood across the enterprise 
+     Tailoring should produce an agreed terminology set for description of architectural content. Consideration should be given to the creation of an Enterprise Glossary, to be updated throughout the architecture process.
+    
+  - **Process Tailoring:** the TOGAF ADM provides a generic process for carrying out architecture 
+    Process tailoring provides the opportunity to remove tasks that are already carried out elsewhere in the organization, add organization-specific tasks (such as specific checkpoints), and to align the ADM processes to external process frameworks and touch-points. Key touch-points to be addressed would include:
+    - Links to (project and service) portfolio management processes
+    - Links to project lifecycle
+    - Links to operations handover processes
+    - Links to operational management processes (including configuration management, change management, and service management)
+    - Links to procurement processes
+    
+  - **Content Tailoring:** using the TOGAF Architecture Content Framework and Enterprise Continuum as a basis, tailoring of content structure and classification approach allows adoption of third-party content frameworks and also allows for customization of the framework to support organization-specific requirements
 
 ### Outputs
 
